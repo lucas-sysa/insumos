@@ -43,13 +43,13 @@ select {
 }
 
 button {
-  width: 100%;
-  padding: 12px;
+  width: auto;           
+  padding: 6px 14px;    
   background-color: #0078d4;
   color: #fff;
-  font-size: 16px;
+  font-size: 13px;       
   border: none;
-  border-radius: 8px;
+  border-radius: 5px;
   cursor: pointer;
   transition: background-color 0.3s ease;
   margin-top: 10px;
@@ -58,4 +58,5 @@ button {
 button:hover {
   background-color: #005a9e;
 }
+
 
