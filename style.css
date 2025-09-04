@@ -42,20 +42,9 @@ select {
   font-size: 14px;
 }
 
-button {         
-  padding: 6px 10px;    
-  background-color: #0078d4;
-  color: #fff;
-  font-size: 13px;       
-  border: none;
-  border-radius: 5px;
-  cursor: pointer;
-  transition: background-color 0.3s ease;
-  margin-top: 10px;
-}
-
-button:hover {
-  background-color: #005a9e;
+button {
+  display: block;
+  margin: 10px auto;
 }
 
 
